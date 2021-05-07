@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="radius">Radius:</string>
+    <string name="r">R</string>
+    <string name="title">CIRCLE CALCULATOR</string>
+    <string name="enter_radius">Enter radius</string>
+    <string name="button">START CALCULATION</string>
+    <string name="other">Radius</string>
+    <string name="tgbtRadius">Others</string>
+    <string name="tvcircumference">Circumference</string>
+    <string name="enter_circumference">Enter Circumference</string>
+    <string name="tvdiameter">Diameter</string>
+    <string name="enter_diameter">Enter Diameter</string>
+</resources>
